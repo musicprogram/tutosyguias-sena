@@ -10,7 +10,7 @@
   <title>Sena</title>
 
   <!-- Favicons-->
-  <link rel="icon" href="images/sena/sena_fondo.png" sizes="32x32">
+  <link rel="icon" href="images/sena/sena_fondo.jpg" sizes="32x32">
   <!-- Favicons-->
   <!-- For iPhone -->
   <meta name="msapplication-TileColor" content="#00bcd4">
@@ -96,7 +96,7 @@
 
 
 <!-- START FOOTER -->
-<?php include_once 'pages/footer/footer.php'?>
+<?php include_once 'tutoriales/pages/footer/footer.php'?>
 <!-- END FOOTER -->
 
 
