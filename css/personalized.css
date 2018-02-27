@@ -1,0 +1,54 @@
+
+.primera_letra::first-letter {
+  color: #00838F;
+  float: left;
+  font-size: 5em;
+  margin: 0 .2em 0 0;
+}
+
+.imgs{
+  display:block;
+  margin:auto;
+}
+
+.separar{
+  padding: 2em 0 1em 0;
+}
+
+
+.separar_lento{
+  padding: 2em 2em 2em 2em;
+}
+
+
+
+
+/* centrar texto dentro de la imagen */
+  .containerBox {
+    position: relative;
+    display: inline-block;
+}
+.text-box {
+    position: absolute;    
+    height: 100%;
+    text-align: center;    
+    width: 100%;
+}
+.text-box:before {
+   content: '';
+   display: inline-block;
+   height: 100%;
+   vertical-align: middle;
+}
+h4.intro_text {
+   display: inline-block;
+  
+   
+}
+img.img_text {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* */
